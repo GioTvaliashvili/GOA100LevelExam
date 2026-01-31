@@ -28,6 +28,13 @@ body {
   border-radius: 50%;
   transition: transform 0.3s ;
 }
+
+a{
+  color: inherit;
+  text-decoration: none;
+
+}
+
 .go-btn1 {
   cursor: pointer;
   color: greenyellow;
