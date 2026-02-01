@@ -167,7 +167,7 @@ background-color: #222931;
 .go-btn1 {
   cursor: pointer;
   color: greenyellow;
-  font-size: clamp(1.2rem, 4vw, 2rem);
+  font-size: min(max(16px,4vw),32px);
   transition: transform 0.3s ease;
 }
 
