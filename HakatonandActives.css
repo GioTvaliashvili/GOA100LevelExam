@@ -179,13 +179,7 @@ background-color: #222931;
 }
 
 
-.animated-element {
-  position: relative;
-  top: auto;
-  left: auto;
-  margin: 0 auto;
-  transform: none;
-}
+
 
 
 .go-btn {
